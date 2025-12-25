@@ -174,10 +174,10 @@ sudo apt-get install -y python3 python3-pip python3-venv
 ```
 
 ### Пайплайн "плохого" CI/CD:
-![omg](jiraf/bad.png)
+![omg](pictures/bad.png)
 
 ### Пайплайн "хорошего" CI/CD:
-![omg](jiraf/god.png)
+![omg](pictures/god.png)
 # Выводы: ключевые улучшения CI/CD
 
 ##  Основные изменения
